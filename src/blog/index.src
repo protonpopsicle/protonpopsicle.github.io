@@ -1,0 +1,21 @@
+++include/head.html--
+  <body class="theme-4">
+++include/body_top.html--
+        <ul class="post-list">
+          <li><a href="/blog/leaks-from-history/">Leaks From History</a>
+            <div class="date">05 / 02 / 15</div>
+            <div class="star blur3">.</div>
+          </li>
+          <li><a href="/blog/hercules-the-legendary-frames/">Hercules: The Legendary Frames</a>
+            <div class="date">04 / 27 / 15</div>
+            <div class="star blur3">.</div>
+          </li>
+          <li><a href="/blog/the-peripheral/">The Peripheral</a>
+            <div class="date">12 / 15 / 14</div>
+            <div class="star blur3">.</div>
+          </li>
+          <li><a href="/blog/initial-d-freeze-frame/">Initial-D Freeze Frame</a>
+            <div class="date">11 / 01 / 14</div>
+          </li>
+        </ul>
+++include/foot.html--

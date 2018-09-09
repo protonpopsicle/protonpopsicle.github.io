@@ -1,0 +1,7 @@
+++include/head.html--
+  <body class="theme-dark2">
+++include/body_top.html--
+        <div class="hero">
+          <p>++hellotext--</p>
+        </div>
+++include/foot.html--

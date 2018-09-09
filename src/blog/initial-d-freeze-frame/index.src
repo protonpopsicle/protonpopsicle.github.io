@@ -1,0 +1,44 @@
+++include/head.html--
+  <body class="theme-4">
+++include/body_top.html--
+<div class="separator"></div>
+
+
+<div class="title-box">
+  <h1><a href="/blog/initial-d-freeze-frame/">Initial-D Freeze Frame</a></h1>
+    <img src="/assets/blog/initial-i.png" width="204px" height="278px" style="">
+    </div>
+
+<article>
+  <div class="text-column">
+      <h2 id="local-speedstars">l<span class="pop">o</span>cal Speedstars</h2>
+
+<p>There is tremendous artistry in Initial-D: First Stage (1998). I watched the series on Netflix and screenshotted frames that struck me. Method: (⌘)-Shift-3. The animated world of the Speed Stars was sourced from real-life locations, view-able at otaku travelogue <a href="http://nipponbanzaii.wordpress.com/nippon-may-2014/kyoto/initial-ds-mt-akina-kyoto/">Nippon Banzaii!</a>.</p>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-08-25 at 10.23.31 PM.png" alt="sparkling lake" /></a></p>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-08-28 at 11.23.49 PM.png" alt="city lights" /></a></p>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-08-28 at 11.23.52 PM.png" alt="nighttime street" /></a></p>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-08-28 at 11.37.07 PM.png" alt="racing headlights" /></a></p>
+
+<h2 id="street-racing">Street Racing</h2>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-09-05 at 9.32.43 PM.png" alt="car in orange light" /></a></p>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-09-05 at 12.47.00 AM.png" alt="Takumi eyes" /></a></p>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-09-18 at 11.37.34 PM.png" alt="Bunta and car" /></a></p>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-09-28 at 10.53.26 PM.png" alt="wet pavement" /></a></p>
+
+<h2 id="thanks-for-reading">Thanks f<span class="pop">o</span>r Reading</h2>
+
+<p><a class="" href="++initial_d_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-09-28 at 11.08.01 PM.png" alt="moody taillight" /></a></p>
+
+<!--more-->
+
+  </div>
+  </article>
+++include/foot.html--

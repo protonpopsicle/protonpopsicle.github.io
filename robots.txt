@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: README.md
+Disallow: CNAME
+Disallow: Makefile
+Disallow: *.c
+Disallow: *_url
+Disallow: title
+Disallow: desc
+Disallow: /includes/*
+Disallow: /src/*

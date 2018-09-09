@@ -1,0 +1,46 @@
+++include/head.html--
+  <body class="theme-4">
+++include/body_top.html--
+<div class="separator"></div>
+
+
+<div class="title-box">
+  <h1><a href="/blog/the-peripheral/">The Peripheral</a></h1>
+    <img src="/assets/blog/the-peripheral.png" width="204px" height="278px" style="">
+    </div>
+
+<article>
+  <div class="text-column">
+      <h2 id="in-a-small-town">In a small t<span class="pop">o</span>wn</h2>
+
+<p>The nearer of two futures in Bill Gibson’s <a href="http://www.williamgibsonbooks.com/books/the_peripheral.asp">The Peripheral</a> is filled with signifiers of today’s maker movement, minutely-evolved. The “vis” is a VR display. Drones fly formation to provide home security. Gadgets are “fabbed”, etc. At NYPL last month, Gibson said we should find this future comfortable, or at least recognizable.</p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_peripheral.jpg" alt="" /></a></p>
+
+<p>Flynne is the protagonist, her posse is ex-military, proficient with every gadget. They never call tech support, never tap the wrong button, never get angry and say, “Why does this shit never work!” The novel provides many fine scenarios for these characters to showcase their talents.</p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_hotel.jpg" alt="" /></a></p>
+
+<h2 id="algorithmic-design">Alg<span class="pop">o</span>rithmic Design</h2>
+
+<p>Recently I presented a workshop for Rhizome at MozFest called <a href="http://labs.rhizome.org/2014/11/07/net-art-anatomy-workshop.html">Net Art Anatomy</a>. The focus on cultural production at MozFest influenced me to make these images. Each image is a photo from my “camera roll” after many iterations of twiddling in iOS photo filtering apps, such as the excellent <a href="http://fragmentapp.com/">Fragment</a>.</p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_bergdorf.jpg" alt="" /></a></p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_teal.jpg" alt="" /></a></p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_67p.jpg" alt="67p" /></a></p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_swirl.jpg" alt="" /></a></p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_film.jpg" alt="" /></a></p>
+
+<p><a class="" href="++frag_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_stairs.jpg" alt="" /></a></p>
+
+<h2 id="sent-from-my-iphone">Sent fr<span class="pop">o</span>m my iPh<span class="pop">o</span>ne</h2>
+
+<!--more-->
+
+  </div>
+  </article>
+++include/foot.html--

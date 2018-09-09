@@ -1,0 +1,46 @@
+++include/head.html--
+  <body class="theme-4">
+++include/body_top.html--
+<div class="separator"></div>
+
+
+<div class="title-box">
+  <h1><a href="/blog/hercules-the-legendary-frames/">Hercules: The Legendary Frames</a></h1>
+    <img src="/assets/blog/herc.png" width="204px" height="278px" style="">
+    </div>
+
+<article>
+  <div class="text-column">
+      <p>Hercules and his best friend Iolaus have no money, assist strangers in brawls with law enforcement. If there’s one thing they can’t stand, it’s the facetious Gods of Olympus.</p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2014-12-19 at 11.51.07 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-01-24 at 11.28.43 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-02-11 at 10.59.27 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-02-16 at 12.11.01 AM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-02-24 at 12.55.50 AM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-02-28 at 11.18.38 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-03-12 at 10.47.20 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-03-13 at 11.32.08 PM.png" alt="" /></a></p>
+
+<h2 id="12-god">1/2 G<span class="pop">o</span>d</h2>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-03-14 at 11.06.44 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-03-14 at 11.43.28 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-03-16 at 9.53.37 PM.png" alt="" /></a></p>
+
+<p><a class="" href="++herc_album_url--" target="_blank"><img src="/assets/blog/thumbs/thumb_Screen Shot 2015-04-08 at 11.46.02 PM.png" alt="" /></a></p>
+
+<!--more-->
+
+  </div>
+  </article>
+++include/foot.html--
