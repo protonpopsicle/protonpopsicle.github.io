@@ -2,7 +2,8 @@
   <body class="theme-cu">
 ++include/body_top.html--
         <ul class="post-list">
-          <li><a>WRITING</a>
+          <li>
+            <a>WRITING</a>
             <div class="date">--------------</div>
           </li>
           <li>
@@ -12,8 +13,12 @@
             <a href="http://rhizome.org/editorial/2013/dec/16/there-and-back-again-homebrew-computer-club-38/">There and Back (Again): Homebrew Computer Club at 38 | Rhizome Dec 2013</a><br>
             <a href="http://rhizome.org/discuss/view/208249/">Ted Nelson at EXPO 1 | Rhizome Discuss Aug 2013</a>
           </li>
-          <li><a>ARTWORK</a>
+          <li>
+            <a>ARTWORK</a>
             <div class="date">--------------</div>
+          </li>
+          <li>
+            <a href="#">[under construction]</a>
           </li>
         </ul>
 ++include/foot.html--
