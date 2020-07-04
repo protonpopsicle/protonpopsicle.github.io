@@ -1,5 +1,5 @@
 ++include/head.html--
-  <body class="theme-dark2">
+  <body class="theme-dark">
 ++include/body_top.html--
         <div class="hero">
           <p>++hellotext--</p>

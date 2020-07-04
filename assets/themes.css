@@ -1,25 +1,25 @@
-.theme-0 {
-    background:#fff;
-}
-.theme-0 .emblem {
-    background:linear-gradient(to bottom, #F13 3%, #222 100%);
-}
-.theme-0 .band {
-    color:#000;
-}
-.theme-0 .nav a,.theme-0 .nav a:visited {
-    color:rgba(0,0,0,0.54);
-}
-.theme-0 .nav a:hover,.theme-0 .nav a.selected {
-    color:#000;
-}
-.theme-0 .hero p {
-    color:#000;
-    text-shadow:none;
-}
-.theme-0 .hero a {
-    color:blue;
-}
+/* .theme-0 { */
+/*     background:#fff; */
+/* } */
+/* .theme-0 .emblem { */
+/*     background:linear-gradient(to bottom, #F13 3%, #222 100%); */
+/* } */
+/* .theme-0 .band { */
+/*     color:#000; */
+/* } */
+/* .theme-0 .nav a,.theme-0 .nav a:visited { */
+/*     color:rgba(0,0,0,0.54); */
+/* } */
+/* .theme-0 .nav a:hover,.theme-0 .nav a.selected { */
+/*     color:#000; */
+/* } */
+/* .theme-0 .hero p { */
+/*     color:#000; */
+/*     text-shadow:none; */
+/* } */
+/* .theme-0 .hero a { */
+/*     color:blue; */
+/* } */
 
 .theme-maroon {
     background:gray;
@@ -56,72 +56,78 @@
     color:cyan;
 }
 
-.theme-cu {
-    background:#000;
-}
-.theme-cu .emblem {
-    background:linear-gradient(to bottom, #17dddd 10%, #000 72%, red 100%);
-}
-.theme-cu .band {
-    color:rgb(240, 139, 41);
-}
-.theme-cu .nav a,.theme-cu .nav a:visited {
-    color:rgba(209, 178, 14, 0.8);
-}
-.theme-cu .nav a:hover,.theme-cu .nav a.selected {
-    color:#FFF;
-}
-.theme-cu .post-list a {
-    color:rgb(227,215,215);
-}
-.theme-cu .post-list .date {
-    color:#b24603;
-}
+/* .theme-cu { */
+/*     background:#000; */
+/* } */
+/* .theme-cu .emblem { */
+/*     background:linear-gradient(to bottom, #17dddd 10%, #000 72%, red 100%); */
+/* } */
+/* .theme-cu .band { */
+/*     color:rgb(240, 139, 41); */
+/* } */
+/* .theme-cu .nav a,.theme-cu .nav a:visited { */
+/*     color:rgba(209, 178, 14, 0.8); */
+/* } */
+/* .theme-cu .nav a:hover,.theme-cu .nav a.selected { */
+/*     color:#FFF; */
+/* } */
+/* .theme-cu .post-list a { */
+/*     color:rgb(227,215,215); */
+/* } */
+/* .theme-cu .post-list .date { */
+/*     color:#b24603; */
+/* } */
 
-.theme-dark1 {
+/* .theme-dark1 { */
+/*     background:black; */
+/* } */
+/* .theme-dark1 .emblem { */
+/*     background: linear-gradient(to bottom, #00ff6f 10%, #12124E 72%, #0FF 100%); */
+/* } */
+/* .theme-dark1 .band { */
+/*     color:#fff; */
+/* } */
+/* .theme-dark1 .nav a,.theme-dark1 .nav a:visited { */
+/*     color:rgba(255,255,255,0.54); */
+/* } */
+/* .theme-dark1 .nav a:hover,.theme-dark1 .nav a.selected { */
+/*     color:#fff; */
+/* } */
+/* .theme-dark1 .hero p { */
+/*     color:#fff; */
+/*     text-shadow:-2px 15px 14px rgba(0,0,255,0.5); */
+/* } */
+/* .theme-dark1 .hero a { */
+/*     color:#00aed4; */
+/* } */
+
+.theme-dark {
     background:black;
 }
-.theme-dark1 .emblem {
-    background: linear-gradient(to bottom, #00ff6f 10%, #12124E 72%, #0FF 100%);
-}
-.theme-dark1 .band {
-    color:#fff;
-}
-.theme-dark1 .nav a,.theme-dark1 .nav a:visited {
-    color:rgba(255,255,255,0.54);
-}
-.theme-dark1 .nav a:hover,.theme-dark1 .nav a.selected {
-    color:#fff;
-}
-.theme-dark1 .hero p {
-    color:#fff;
-    text-shadow:-2px 15px 14px rgba(0,0,255,0.5);
-}
-.theme-dark1 .hero a {
-    color:#00aed4;
-}
-
-.theme-dark2 {
-    background:black;
-}
-.theme-dark2 .emblem {
+.theme-dark .emblem {
     background:linear-gradient(to bottom, #171717 10%, #B67400 72%, #DEEA1A 100%);
 }
-.theme-dark2 .band {
+.theme-dark.alt .emblem {
+    background:linear-gradient(to bottom, #17dddd 10%, #000 72%, red 100%);
+}
+.theme-dark .band {
     color:#45ff00;
 }
-.theme-dark2 .nav a,.theme-dark2 .nav a:visited {
+.theme-dark .nav a,.theme-dark2 .nav a:visited {
     color:rgba(255,255,255,0.54);
 }
-.theme-dark2 .nav a:hover,.theme-dark2 .nav a.selected {
+.theme-dark .nav a:hover,.theme-dark2 .nav a.selected {
     color:#fff;
 }
-.theme-dark2 .hero p {
+.theme-dark .hero p {
     color:#fff;
     text-shadow:-2px 15px 14px rgba(0,0,255,0.5);
 }
-.theme-dark2 .hero a {
+.theme-dark .hero a {
     color:#dbb619;
+}
+.theme-dark .post-list a, .theme-dark .post-list .date {
+    color:rgb(227,215,215);
 }
 
 /* blog post legacy theme */
