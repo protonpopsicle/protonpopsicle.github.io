@@ -8,3 +8,4 @@ Disallow: title
 Disallow: desc
 Disallow: /includes/*
 Disallow: /src/*
+Disallow: /phuture/*
