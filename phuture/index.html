@@ -1,0 +1,75 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PP AlbumPlay</title>
+  <meta name="description" content="ProtonPigeon">
+  <meta name="author" content="Scott Meisburger">
+
+  <link rel="stylesheet" href="player.css">
+</head>
+<body>
+  <svg viewBox="0 0 400 400">
+    <defs>
+      <linearGradient id="PadGradient"
+                      x1="33%" x2="67%">
+	<stop offset="0%"  stop-color="fuchsia"/>
+	<stop offset="100%" stop-color="orange"/>
+      </linearGradient>
+      <radialGradient id="RadialReflectGradient"
+                    spreadMethod="reflect"
+                    cx="75%" cy="25%" r="33%" 
+                    fx="64%" fy="18%" fr="17%">
+      <stop offset="0%"  stop-color="fuchsia"/>
+      <stop offset="100%" stop-color="orange"/>
+    </radialGradient>
+      <linearGradient id="Gradient1">
+	<stop offset="5%" stop-color="white"/>
+	<stop offset="95%" stop-color="blue"/>
+      </linearGradient>
+      <linearGradient id="Gradient2" x1="0" x2="0" y1="0" y2="1">
+	<stop offset="5%" stop-color="red"/>
+	<stop offset="95%" stop-color="orange"/>
+      </linearGradient>
+
+      <pattern id="Pattern" x="0" y="0" width=".25" height=".25">
+	<rect x="0" y="0" width="50" height="50" fill="skyblue"/>
+	<rect x="0" y="0" width="25" height="25" fill="url(#Gradient2)"/>
+	<circle cx="25" cy="25" r="20" fill="url(#Gradient1)" fill-opacity="0.5"/>
+    </pattern>
+  </defs>
+    <circle cx="200" cy="200" r="190" />
+    <g id="center">
+      <g id="transport">
+	<circle cx="0" cy="0" r="30" />
+	<polygon points="-9,10.5 -9,-10.5, 9,0" />
+      </g>
+      <text id="console-top" x="-50" y="-90">
+	<tspan>PROTON PIGEON</tspan>
+	<tspan class="em" x="-50" y="-65">Paralellel Processing</tspan>
+      </text>
+      <text id="console-bottom" x="-50" y="75">
+	<tspan id="track-title"></tspan>
+	<tspan x="-50" y="100" id="copy-1"></tspan>
+	<tspan x="-50" y="115" id="copy-2"></tspan>
+	<tspan x="-50" y="130" id="copy-3"></tspan>
+      </text>
+      <circle id="play-head" data-title="" data-length="0:00" cx="0" cy="-190" r="9" />
+      <g id="tracks">
+	<circle data-length="1:00" cx="0" cy="-190" r="6"><title>1. Timbrality</title></circle>
+	<circle data-length="3:00" cx="0" cy="-190" r="6"><title>2. San Francisco</title></circle>
+	<circle data-length="2:50" cx="0" cy="-190" r="6"><title>3. Parallel Processing</title></circle>
+	<circle data-length="4:50" cx="0" cy="-190" r="6"><title>4. Super-Resolution</title></circle>
+        <circle data-length="1:50" cx="0" cy="-190" r="6"><title>5. Time-Delayed Copy</title></circle>
+	<circle data-length="6:10" cx="0" cy="-190" r="6"><title>6. Consequential Circuits</title></circle>
+	<circle data-length="4:08" cx="0" cy="-190" r="6"><title>7. Axios Bombay</title></circle>
+	<circle data-length="3:21" cx="0" cy="-190" r="6"><title>8. Trichromatic</title></circle>
+      </g>
+      <line transform="rotate(25)" x1="0" x2="0" y1="-30" y2="-184"/>
+    </g>
+  </svg>
+  <div id="credits">Scott Meisburger - performance, assembly, production, mixing<br><br>℗© 2021<br>All songs composed by Scott Meisburger.</div>
+  <script type="text/javascript" src="player.js"></script>
+</body>
+</html>

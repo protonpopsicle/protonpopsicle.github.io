@@ -1,0 +1,84 @@
+body {
+    /* background: black; */
+    margin: 40px 0 0 0;
+    text-align: center;
+}
+
+svg {
+    width: 400px;
+    fill: transparent;
+    stroke-width: 1;
+    stroke-linecap: round;
+    font-family: serif;
+    font-size: 0.945em;
+}
+
+svg.trippy {
+    fill: url(#RadialReflectGradient);
+}
+
+svg text {
+    fill: navy;
+}
+
+
+#center {
+    transform: translate(200px, 200px);
+}
+
+#tracks circle {
+    stroke: none;
+    fill: #0687F5;
+    transition: all 0.5s ease-in-out;
+}
+
+/* #tracks circle.playing { */
+/*     fill: red; */
+/* } */
+
+#tracks circle:hover {
+    cursor: pointer;
+    /* fill:red; */
+}
+
+circle, line {
+    stroke: #888888;
+    /* stroke: orange; */
+}
+
+#transport circle {
+    fill: red;
+    transition: all 0.5s ease-in-out;
+}
+
+.trippy #transport circle {
+    fill: url(#RadialReflectGradient);
+}
+
+#transport circle:hover {
+    cursor: pointer;
+    fill: url(#PadGradient);
+}
+
+#transport polygon {
+    fill: black;
+    pointer-events: none;
+}
+
+.em {
+    fill: royalBlue;
+    font-style: italic;
+    stroke: navy;
+}
+
+#console-bottom {
+    font-size: 0.85em;
+}
+
+circle#play-head {
+    stroke: black;
+    /* fill: #c7ff0078; */
+    fill: none;
+    pointer-events: none;
+    transition: all 0.5s ease-in-out;
+}
