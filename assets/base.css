@@ -1,14 +1,11 @@
 @font-face {
  font-family:'LetterGothicStd';
- src:url("fonts/LetterGothicStd.eot");
- src:local("☺"),url("fonts/LetterGothicStd.woff") format("woff"),url("fonts/LetterGothicStd.ttf") format("truetype"),url("fonts/LetterGothicStd.svg") format("svg");
+ src:url("fonts/LetterGothicStd.woff") format("woff");
  font-weight:normal;
  font-style:normal
 }
 html,body {
  margin:0;
- -webkit-font-smoothing:antialiased;
- -moz-osx-font-smoothing:grayscale
 }
 body {
  transition:background 1s
@@ -17,13 +14,9 @@ a {
  text-decoration:none
 }
 .blur1 {
- filter:url(filters.svg#littleblur);
- -webkit-filter:blur(1px);
  filter:blur(1px)
 }
 .blur3 {
- filter:url(filters.svg#wherearemyglasses);
- -webkit-filter:blur(3px);
  filter:blur(3px)
 }
 .rainbow {
@@ -79,7 +72,6 @@ a {
 .nav {
  font-family:"LetterGothicStd", monospace;
  text-transform:uppercase;
- font-weight:bold;
  font-size:12px;
  position:absolute;
  width:300px;
@@ -173,7 +165,6 @@ article p {
 ul.post-list {
  text-align:center;
  font-family:"LetterGothicStd", monospace;
- font-weight:bold;
  padding:0;
  padding-top:12px
 }
