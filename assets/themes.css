@@ -85,6 +85,13 @@
 .theme-dark .post-list a, .theme-dark .post-list .date {
     color:rgb(227,215,215);
 }
+.theme-dark.past .grid-container img {
+    box-shadow: none;
+    border: 1px solid gray;
+}
+.theme-dark.past .grid-container h1 {
+    color: #c80000;
+}
 
 /* blog post legacy theme */
 .theme-4 {
