@@ -39,6 +39,12 @@
 .theme-dark.yoga {
     background: #bfbebe;
 }
+.theme-dark.crayon {
+    background: red;
+}
+.theme-dark.crayon .emblem {
+    background: linear-gradient(to bottom, #171717 10%, #3900B6 72%, #05EA53 100%);
+}
 .theme-dark .emblem {
     background:linear-gradient(to bottom, #171717 10%, #B67400 72%, #DEEA1A 100%);
 }
