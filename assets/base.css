@@ -216,15 +216,12 @@ ul.post-list .date {
     }
 }
 @media(min-width:700px) {
-    /* .grid-container { */
-    /* 	grid-template-columns: repeat(4, 1fr); */
-    /* }     */
     .grid-container img {
 	max-height: 290px;
     }
 }
-@media(min-width:800px) {
-    .grid-container {
-	gap: 3rem;
-    }    
-}
+/* @media(min-width:800px) { */
+/*     .grid-container { */
+/* 	gap: 3rem; */
+/*     }     */
+/* } */
