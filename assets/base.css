@@ -193,13 +193,10 @@ ul.post-list .date {
 .grid-container {
     display: grid;
     /* grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); */
-    grid-template-columns: repeat(auto-fill, 300px);
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     /* background: linear-gradient(90deg, rgba(69,252,92,1) 10%, rgba(253,29,29,1) 10%, rgba(212,58,70,1) 21%, rgba(29,190,253,1) 21%, rgba(29,190,253,1) 31%, rgba(42,29,253,1) 31%, rgba(38,29,253,1) 41%, rgba(253,29,231,1) 41%, rgba(253,29,231,1) 51%, rgba(29,253,226,1) 51%, rgba(29,253,226,1) 61%, rgba(253,173,29,1) 61%, rgba(253,173,29,1) 71%, rgba(253,249,29,1) 71%, rgba(248,237,41,1) 81%, rgba(162,29,253,1) 81%, rgba(162,29,253,1) 91%, rgba(253,29,242,1) 91%); */
     justify-content: center;
-}
-.grid-container a {
-    padding: 10px;
-    margin: 18px;
+    gap: 1rem;
 }
 .grid-container h1 {
     display: block;
@@ -210,6 +207,16 @@ ul.post-list .date {
 }
 .grid-container img {
     max-width: 100%;
-    max-height: 300px;
+    max-height: 232px;
     box-shadow: -2px 15px 14px rgba(0,0,255,0.5);
+}
+@media(min-width:650px) {
+    .grid-container {
+	grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media(min-width:700px) {
+    .grid-container img {
+	max-height: 290px;
+    }
 }
