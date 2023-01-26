@@ -20,12 +20,12 @@
           <li>
             <a href="https://www.slideshare.net/rhizomedotorg/net-art-anatomy-by-rhizome">Net Art Anatomy Workshop at MozFest 2014</a><br>
           </li>
-          <li>
-            <a>DISCOGRAPHY</a>
-            <div class="date">--------------</div>
-          </li>
-          <li>
-            <a href="https://scottmeisburger.bandcamp.com/album/private-i">Private I | 2021 EP</a><br>
-          </li>	  
+          <!-- <li> -->
+          <!--   <a>DISCOGRAPHY</a> -->
+          <!--   <div class="date">--------------</div> -->
+          <!-- </li> -->
+          <!-- <li> -->
+          <!--   <a href="https://scottmeisburger.bandcamp.com/album/private-i">Private I | 2021 EP</a><br> -->
+          <!-- </li> -->
         </ul>
 ++include/foot.html--
