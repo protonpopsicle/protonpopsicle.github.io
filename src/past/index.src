@@ -1,5 +1,0 @@
-++include/head.html--
-  <body class="theme-dark crayon">
-++include/body_top.html--
-++include/grid.html--
-++include/foot.html--

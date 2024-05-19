@@ -13,6 +13,9 @@ body {
 a {
  text-decoration:none
 }
+p.center {
+    text-align: center;
+}
 .blur1 {
  filter:blur(1px)
 }
@@ -60,8 +63,9 @@ a {
 }
 .content {
  transition:color .3s;
- font-size:18px;
- line-height:1.7em
+ line-height:1.7em;
+ font-family:"LetterGothicStd", monospace;
+ font-size:14px;	     
 }
 .content a {
  transition:color .3s
@@ -225,3 +229,7 @@ ul.post-list .date {
 /* 	gap: 3rem; */
 /*     }     */
 /* } */
+
+a:visited {
+  color: inherit;
+}
