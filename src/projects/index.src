@@ -11,8 +11,7 @@
             <a href="http://labs.rhizome.org/2014/08/07/reanimating-chat-logs-with-applescript.html">Reanimating Chat Logs with AppleScript | Rhizome Labs May 2014</a><br>-->
             <a href="http://rhizome.org/editorial/2014/may/28/rhizome-open-business/">Rhizome is Open (Source) for Business | Rhizome May 2014</a><br>
             <a href="http://rhizome.org/editorial/2013/dec/16/there-and-back-again-homebrew-computer-club-38/">There and Back (Again): Homebrew Computer Club at 38 | Rhizome Dec 2013</a><br>
-            <a href="http://rhizome.org/discuss/view/208249/">Ted Nelson at EXPO 1 | Rhizome Discuss Aug 2013</a><br>
-            <a href="/blog/leaks-from-history/">Leaks From History | Blog May 2015</a>
+            <a href="http://rhizome.org/discuss/view/208249/">Ted Nelson at EXPO 1 | Rhizome Discuss Aug 2013</a>
           </li>
           <li>
             <a>SPEAKING</a>
@@ -33,7 +32,8 @@
             <div class="date">--------------</div>
 	  </li>
 	  <li>
-	    <a href="http://www.electrongate.com/dmxfiles/drumtraks/index.html">Drumtraks EPROM Images at The DMX Files</a>
+	    <a href="http://www.electrongate.com/dmxfiles/drumtraks/index.html">Drumtraks EPROM Images at The DMX Files</a><br>
+            <a href="/blog/leaks-from-history/">Leaks From History | Blog May 2015</a>
           </li>
         </ul>
 ++include/foot.html--

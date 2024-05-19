@@ -63,8 +63,17 @@
 .theme-dark.yoga .band {
     color:#286212;
 }
+.theme-dark.yoga .content a {
+    color:rgba(0,0,255,0.5);
+}
 .theme-dark.past .band {
     color:#e60081;
+}
+.theme-dark.past .content a {
+    color:#fff;
+}
+.theme-dark.past .content p {
+    color:rgba(255,255,255,0.54);
 }
 .theme-dark .nav a,.theme-dark .nav a:visited {
     color:rgba(255,255,255,0.54);
