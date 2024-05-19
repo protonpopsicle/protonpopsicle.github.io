@@ -4,4 +4,7 @@
         <div class="hero">
           <p>++hellotext--</p>
         </div>
+        <div class="hero">
+          <p>++footertext--</p>
+        </div>
 ++include/foot.html--
