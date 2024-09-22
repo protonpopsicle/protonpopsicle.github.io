@@ -182,7 +182,7 @@ ul.post-list a {
  font-size:14px;
  display:inline-block
 }
-ul.post-list a:hover {
+ul.post-list a:hover, .grid-container a:hover {
  text-decoration:none
 }
 ul.post-list .star {
